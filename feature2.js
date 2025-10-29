@@ -5,4 +5,5 @@ function fun1() {
 function fun2(){
     console.log("This is Feature 2");
 }
+const x ="";
 
